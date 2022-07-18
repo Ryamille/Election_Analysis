@@ -32,7 +32,13 @@ The candidate results were:
   - Raymon Anthony Doane received "3.1%" of the vote and "11,606" number of votes
 - The winner of the election was:
   - Diana DeGette with "73.8%" of the vote and "272,892" number of votes
-  
- ## Election-Audit Summary
- This code can be used on any election that has a csv file for all the votes. The script would just have to be modified so that the candidate row and county row are in the right spot.  
  
+ ![](Resources/Example_3.png)
+  
+ 
+ ## Election-Audit Summary
+ This code can be used on any election that has a csv file for all the votes. For this script you will have to also change the csv file to match your new one. The script would just have to be modified so that the candidate row and county row are in the right spot.
+ 
+![](Resources/Example_2.png)
+
+![](Resources/Example_1.png)
