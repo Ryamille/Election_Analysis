@@ -2,7 +2,7 @@
 
 ## Overview of Election Audit
 Overview of Election Audit: Explain the purpose of this election audit analysis.
-The purpose of this analysis was to tally all the votes for each candidate and county. Showing the results of total votes and vote percentage.
+The purpose of this analysis was to tally the total number of votes for each candidate and county as well as show the vote percentage.
 
 ## Resources
 - Data Source: election_results.csv
@@ -20,7 +20,7 @@ The analysis of the election show that:
   - Denver received "82.8%" of the votes and "306,055" number of votes
   - Arapahoe received "6.7%" of the votes and "24,801" number of votes
 - The county with the most votes was:
-  - Denver won with "82.8%" of the votes and "24,801" number of votes
+  - Denver won with "82.8%" of the votes and "306,055" number of votes
   
 - The candidates were:
   - Charles Casper Stockham
